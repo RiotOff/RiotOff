@@ -52,8 +52,8 @@
 
 ### 📈 Statistics:
 <!-- STATS:START -->
-![RiotOff Github Stats](https://github-readme-stats.vercel.app/api?username=RiotOff&count_private=true&hide=contribs&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiotOff&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)
+[![RiotOff Github Stats](https://github-readme-stats.vercel.app/api?username=RiotOff&count_private=true&hide=contribs&show_icons=true&theme=radical)](https://github.com/RiotOff)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiotOff&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)](https://github.com/RiotOff)
 <!-- STATS:END -->
 
 <!-- LINKS:START -->
