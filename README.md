@@ -2,7 +2,7 @@
 
 # 🖤 Hi, i'm [RiotOff](https://www.youtube.com/@RiotOffx)!
 
-[![](https://komarev.com/ghpvc/?username=RIOTOFF&style=for-the-badge&color=000000)](https://github.com/RiotOff)
+[![](https://komarev.com/ghpvc/?username=RIOTOFF&logo=github&style=for-the-badge&color=000000)](https://github.com/RiotOff)
 <br />
 [![](https://img.shields.io/discord/979075440020959262?color=black&label=Server&logo=Discord&style=for-the-badge)](https://dsc.gg/riotoff)
 <br />
