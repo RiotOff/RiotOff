@@ -2,10 +2,11 @@
 
 # 🖤 Hi, i'm [RiotOff](https://www.youtube.com/@RiotOffx)!
 
-![](https://komarev.com/ghpvc/?username=RIOTOFF&style=for-the-badge&color=000000)
+[![](https://komarev.com/ghpvc/?username=RIOTOFF&style=for-the-badge&color=000000)](https://github.com/RiotOff)
 <br />
-![](https://img.shields.io/discord/979075440020959262?color=black&label=Server&logo=Discord&style=for-the-badge)
-
+[![](https://img.shields.io/discord/979075440020959262?color=black&label=Server&logo=Discord&style=for-the-badge)](https://dsc.gg/riotoff)
+<br />
+[![](https://img.shields.io/youtube/channel/subscribers/UCGtE7ehjGCAd-iJKwebq05w?color=black&label=YouTube%20Subs&logo=youtube&logoColor=red&style=for-the-badge)](https://youtube.com/@RiotOffX)
 ## 👨‍💻 Some Info:
 - 🍕 My name's Arseniy.
 - 🍩 My hobbies is Motion Design, Graphics Design, Web-Making, Games and more.
