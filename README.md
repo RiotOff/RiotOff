@@ -50,12 +50,10 @@
 - [MILLY ROCK | Standoff 2](https://www.youtube.com/watch?v=GBDGUKhaBRk)
 <!-- YOUTUBE:END -->
 
+### 📈 Statistics:
 <!-- STATS:START -->
-<details>
-  <summary>🎮 Statistics:</summary>
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RIOTOFF&langs_count=8&layout=compact" />
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RIOTOFF&show_icons=true" />
-</details>
+![RiotOff Github Stats](https://github-readme-stats.vercel.app/api?username=RiotOff&count_private=true&hide=contribs&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiotOff&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)
 <!-- STATS:END -->
 
 <!-- LINKS:START -->
