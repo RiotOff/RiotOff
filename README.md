@@ -1,6 +1,6 @@
 [![Header](https://cdn.discordapp.com/attachments/979075441690284058/1039489474612183131/riotoff_discord_banner.gif)](https://riotoff.bio.link)
 
-# 💫 Hi, i'm [RiotOff](https://www.youtube.com/@RiotOffx)!
+# 🖤 Hi, i'm [RiotOff](https://www.youtube.com/@RiotOffx)!
 
 ![](https://komarev.com/ghpvc/?username=RIOTOFF&style=for-the-badge&color=000000)
 
