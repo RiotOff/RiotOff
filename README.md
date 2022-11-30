@@ -22,6 +22,7 @@
 [![VSCode](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=VisualStudio&logoColor=00B6FF)](https://wikipedia.org/wiki/Visual_Studio_Code)
 [![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3&logoColor=008CFF)](https://wikipedia.org/wiki/CSS)
 [![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-090909?style=for-the-badge&logo=SublimeText)](https://wikipedia.org/wiki/Sublime_Text)
+[![PyCharm](https://img.shields.io/badge/-PyCharm-090909?style=for-the-badge&logo=pycharm)](https://ru.wikipedia.org/wiki/PyCharm)
 
 ### 🍫 Socials:
 
