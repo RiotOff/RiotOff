@@ -22,11 +22,11 @@
 [![VSCode](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=VisualStudio&logoColor=00B6FF)](https://wikipedia.org/wiki/Visual_Studio_Code)
 [![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3&logoColor=008CFF)](https://wikipedia.org/wiki/CSS)
 [![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-090909?style=for-the-badge&logo=SublimeText)](https://wikipedia.org/wiki/Sublime_Text)
-[![PyCharm](https://img.shields.io/badge/-PyCharm-090909?style=for-the-badge&logo=pycharm)](https://ru.wikipedia.org/wiki/PyCharm)
+[![PyCharm](https://img.shields.io/badge/-PyCharm-090909?style=for-the-badge&logo=pycharm)](https://wikipedia.org/wiki/PyCharm)
+[![IntelliJ IDEA](https://img.shields.io/badge/-JS-090909?style=for-the-badge&logo=intellijidea)](https://wikipedia.org/wiki/IntelliJ_IDEA)
 
 ### 🍫 Socials:
 
-<!-- SOCIALS:START -->
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/riotoffchannel)
 [![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord)](https://dsc.gg/riotoff)
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=E50000)](https://youtube.com/@RiotOffX)
@@ -34,13 +34,6 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=008CFF)](https://twitter.com/riotoff)
 [![Steam](https://img.shields.io/badge/-Steam-090909?style=for-the-badge&logo=Steam&logoColor=0050FF)](https://steamcommunity.com/profiles/76561199382745603/)
 [![GameJolt](https://img.shields.io/badge/-Gamejolt-090909?style=for-the-badge&logo=Gamejolt&logoColor=A5FF00)](https://gamejolt.com/@RiotOff)
-<!-- SOCIALS:END -->
-
-### 🔨 Browsers im using/used:
-<!-- BROWSERS:START -->
-[![Chrome](https://img.shields.io/badge/-Chrome-090909?style=for-the-badge&logo=googlechrome&logoColor=FFC700)](https://wikipedia.org/wiki/Google_Chrome)
-[![Opera GX](https://img.shields.io/badge/-Opera%20GX-090909?style=for-the-badge&logo=opera&logoColor=FF0000)](https://wikipedia.org/wiki/OperaGX)
-<!-- BROWSERS:END -->
 
 ### 🎥 NEW YouTube Videos:
 <!-- YOUTUBE:START -->
@@ -52,14 +45,10 @@
 <!-- YOUTUBE:END -->
 
 ### 📈 Statistics:
-<!-- STATS:START -->
+
 [![RiotOff Github Stats](https://github-readme-stats.vercel.app/api?username=RiotOff&count_private=true&hide=contribs&show_icons=true&theme=radical)](https://github.com/RiotOff)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiotOff&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)](https://github.com/RiotOff)
-<!-- STATS:END -->
 
-<!-- LINKS:START -->
+<!-- links -->
 [Web-Site]: https://riotoff.ml
-[Bio-Link]: https://riotoff.bio.link
-[VK]: https://vk.com/riotoff
 [Discord Server]: https://dsc.gg/riotoff
-<!-- LINKS:END -->
