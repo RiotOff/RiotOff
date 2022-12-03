@@ -23,7 +23,7 @@
 [![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3&logoColor=008CFF)](https://wikipedia.org/wiki/CSS)
 [![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-090909?style=for-the-badge&logo=SublimeText)](https://wikipedia.org/wiki/Sublime_Text)
 [![PyCharm](https://img.shields.io/badge/-PyCharm-090909?style=for-the-badge&logo=pycharm)](https://wikipedia.org/wiki/PyCharm)
-[![IntelliJ IDEA](https://img.shields.io/badge/-JS-090909?style=for-the-badge&logo=intellijidea)](https://wikipedia.org/wiki/IntelliJ_IDEA)
+[![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-IDEA-090909?style=for-the-badge&logo=intellijidea)](https://wikipedia.org/wiki/IntelliJ_IDEA)
 
 ### 🍫 Socials:
 
