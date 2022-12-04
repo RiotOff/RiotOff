@@ -17,6 +17,7 @@
 
 ### 📺 Languages and Programs:
 
+[![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)](https://en.wikipedia.org/wiki/Python_(programming_language))
 [![JS](https://img.shields.io/badge/-JS-090909?style=for-the-badge&logo=javascript)](https://wikipedia.org/wiki/JavaScript)
 [![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)](https://wikipedia.org/wiki/HTML)
 [![VSCode](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=VisualStudio&logoColor=00B6FF)](https://wikipedia.org/wiki/Visual_Studio_Code)
