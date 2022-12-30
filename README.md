@@ -38,11 +38,11 @@
 
 ### 🎥 NEW YouTube Videos:
 <!-- YOUTUBE:START -->
+- [ЯРЧЁ ЗВЁЗД | МОЯ МАПА В ОСУ! / OSU!](https://www.youtube.com/watch?v=Y5hZxDILv1M)
 - [Оксимирон + Subway Surfers | OSU / ОСУ !](https://www.youtube.com/watch?v=HGpEJupz6q4)
 - [Осу СДУРЕЛ и стал ТАЩИТЬ / ЧТО ТВОРИТ ОСУ? / OSU!](https://www.youtube.com/watch?v=Lr33SPX7rv4)
 - [ПОКА БС БОКСЫ!](https://www.youtube.com/watch?v=K7IqGOXyyD4)
 - [Пока БРАВЛ БОКСЫ!  #byebyeboxes](https://www.youtube.com/watch?v=Mqord8Y7ylM)
-- [ПОСЛАНИЕ БОГУ ?](https://www.youtube.com/watch?v=Z3_pNs1MbXM)
 <!-- YOUTUBE:END -->
 
 ### 📈 Statistics:
