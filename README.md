@@ -11,7 +11,7 @@
 - 🍕 My name's Arseniy.
 - 🍩 My hobbies is Motion Design, Graphics Design, Web-Making, Games and more.
 - ☕ On GitHub im showcasing sites, discord bots, other codes.
-- 🍪 I have projects "[RIOTOFF Project](https://dsc.gg/riotoff)" and "[ASMINE](https://discord.gg/ceu3rX9mf5)".
+- 🍪 I have projects "[RIOTOFF Project](https://dsc.gg/riotoff)" and RIOTOFF Pages (Not opened).
 - 🥪 My email: riotixofficial@gmail.com
 - 🌭 Production email: riotoffproduction@gmail.com
 
