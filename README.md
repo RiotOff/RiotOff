@@ -34,12 +34,6 @@
 [![Steam](https://img.shields.io/badge/-Steam-090909?style=for-the-badge&logo=Steam&logoColor=0050FF)](https://steamcommunity.com/profiles/76561199382745603/)
 [![GameJolt](https://img.shields.io/badge/-Gamejolt-090909?style=for-the-badge&logo=Gamejolt&logoColor=A5FF00)](https://gamejolt.com/@RiotOff)
 
-### 🎥 NEW YouTube Videos:
-<!-- YOUTUBE:START -->
-- [ЛУЧШИЙ СКРИПТ Для BOXING SIMULATOR 2 в Roblox !](https://www.youtube.com/watch?v=2TvVYrhpulE)
-- [КАК Сделать КАСТОМНЫЙ СТАТУС в ДИСКОРДЕ! | CustomRP / DISCORD RPC Maker / EasyRP](https://www.youtube.com/watch?v=oVbK39f2BdI)
-<!-- YOUTUBE:END -->
-
 ### 📈 Statistics:
 
 [![RiotOff Github Stats](https://github-readme-stats.vercel.app/api?username=RiotOff&count_private=true&hide=contribs&show_icons=true&theme=radical)](https://github.com/RiotOff)
