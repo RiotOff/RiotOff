@@ -26,11 +26,9 @@
 
 ### 🍫 Socials:
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/riotoffchannel)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/riotoffprojectts)
 [![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord)](https://dsc.gg/riotoff)
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=E50000)](https://youtube.com/@RiotOffX)
-[![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=VK&logoColor=008CFF)](https://vk.com/riotoff)
-[![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=008CFF)](https://twitter.com/riotoff)
 [![Steam](https://img.shields.io/badge/-Steam-090909?style=for-the-badge&logo=Steam&logoColor=0050FF)](https://steamcommunity.com/profiles/76561199382745603/)
 [![GameJolt](https://img.shields.io/badge/-Gamejolt-090909?style=for-the-badge&logo=Gamejolt&logoColor=A5FF00)](https://gamejolt.com/@RiotOff)
 
@@ -40,5 +38,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiotOff&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)](https://github.com/RiotOff)
 
 <!-- links -->
-[Web-Site]: https://riotoff.ml
+[Web-Site]: https://riotoff.lol
 [Discord Server]: https://dsc.gg/riotoff
