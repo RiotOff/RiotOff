@@ -1,4 +1,4 @@
-[![Header](https://cdn.discordapp.com/attachments/1072852899174039573/1119317992585576521/riotoff_discord_banner.gif)](https://riotoff.lol)
+[![Header](https://chotaskorodobavlyu)](https://riotoff.lol)
 
 # 🎳 Hi, i'm [RiotOff](https://www.youtube.com/@RiotOffx)!
 
