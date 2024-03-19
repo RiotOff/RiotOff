@@ -7,9 +7,9 @@
 [![](https://img.shields.io/youtube/channel/subscribers/UCGtE7ehjGCAd-iJKwebq05w?color=black&label=YouTube%20Subs&logo=youtube&logoColor=red&style=for-the-badge)](https://youtube.com/@RiotOffX)
 ## 👨‍💻 Some Info:
 - 🍕 My name's Riot.
-- 🍩 My hobbies is Motion Design, Graphics Design, Web-Making, Games and more.
-- ☕ On GitHub im showcasing sites, discord bots, other codes.
-- 🍪 I have projects "[RIOTOFF Project](https://dsc.gg/riotoff)" and more.
+- 🍩 My hobbies are programming bots, playing games and more other.
+- ☕ On GitHub im showcasing sites, bots and other codes.
+- 🍪 I have projects "[RIOTOFF Project](https://dsc.gg/riotoff)" and "[riotoff projects](https://t.me/riotoffprojects)" channel.
 - 🥪 My email: riotixofficial@gmail.com
 - 🌭 Production email: riotoffproduction@gmail.com
 
@@ -26,11 +26,9 @@
 
 ### 🍫 Socials:
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/riotoffprojectts)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/riotoffprojects)
 [![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=Discord)](https://dsc.gg/riotoff)
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=E50000)](https://youtube.com/@RiotOffX)
-[![Steam](https://img.shields.io/badge/-Steam-090909?style=for-the-badge&logo=Steam&logoColor=0050FF)](https://steamcommunity.com/profiles/76561199382745603/)
-[![GameJolt](https://img.shields.io/badge/-Gamejolt-090909?style=for-the-badge&logo=Gamejolt&logoColor=A5FF00)](https://gamejolt.com/@RiotOff)
 
 ### 📈 Statistics:
 
