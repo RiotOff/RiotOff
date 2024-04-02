@@ -11,7 +11,6 @@
 - ☕ On GitHub im showcasing sites, bots and other codes.
 - 🍪 I have projects "[RIOTOFF Project](https://dsc.gg/riotoff)" and "[riotoff projects](https://t.me/riotoffprojects)" channel.
 - 🥪 My email: riotixofficial@gmail.com
-- 🌭 Production email: riotoffproduction@gmail.com
 
 ### 📺 Languages and Programs:
 
