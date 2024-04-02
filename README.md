@@ -1,6 +1,6 @@
 [![Header](https://cdn.discordapp.com/attachments/1138212766897942662/1224737812730085386/riotoff_discord_banner.gif?ex=661e94f9&is=660c1ff9&hm=32acae3ebc6a47b27bf24f17c1e0970433680428d79f1ce3c53576a10a36e9ee&)](https://riotoff.lol)
 
-# 🎳 Hi, i'm [RiotOff](https://www.youtube.com/@RiotOffx)!
+# 🎳 Hi, i'm [RiotOff](https://t.me/riotoff)!
 
 [![](https://komarev.com/ghpvc/?username=RIOTOFF&logo=github&style=for-the-badge&color=000000)](https://github.com/RiotOff)
 <br />
