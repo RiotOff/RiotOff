@@ -1,4 +1,4 @@
-[![Header](https://cdn.discordapp.com/attachments/1138212766897942662/1224737812730085386/riotoff_discord_banner.gif?ex=661e94f9&is=660c1ff9&hm=32acae3ebc6a47b27bf24f17c1e0970433680428d79f1ce3c53576a10a36e9ee&)](https://riotoff.lol)
+[![Header](https://cdn.discordapp.com/attachments/1138212766897942662/1224737812730085386/riotoff_discord_banner.gif?ex=66287839&is=662726b9&hm=f808caf030a51807cf8ecce3f079ae17159edc6cf6e7cac0078869e67b2fe80f&)](https://riotoff.lol)
 
 # 🎳 Hi, i'm [RiotOff](https://t.me/riotoff)!
 
