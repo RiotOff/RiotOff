@@ -12,9 +12,9 @@
 
 ### 📺 Languages:
 
-[![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)](https://en.wikipedia.org/wiki/Python_(programming_language))
+[![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)](https://wikipedia.org/wiki/Python_(programming_language))
 [![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C++)](https://wikipedia.org/wiki/C++)
-[![C#](https://img.shields.io/badge/-CSharp-090909?style=for-the-badge&logo=CSharp)](https://wikipedia.org/wiki/CSharp)
+[![C#](https://img.shields.io/badge/-CSharp-090909?style=for-the-badge&logo=CSharp)]([https://wikipedia.org/wiki/C_Sharp)
 ### 📈 Statistics:
 
 [![RiotOff Github Stats](https://github-readme-stats.vercel.app/api?username=RiotOff&count_private=true&hide=contribs&show_icons=true&theme=radical)](https://github.com/RiotOff)
