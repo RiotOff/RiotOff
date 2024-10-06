@@ -15,8 +15,8 @@
 ### 📺 Languages:
 
 [![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)](https://en.wikipedia.org/wiki/Python_(programming_language))
-[![C++](https://img.shields.io/badge/-JS-090909?style=for-the-badge&logo=javascript)](https://wikipedia.org/wiki/JavaScript)
 [![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C++)](https://wikipedia.org/wiki/C++)
+[![C++](https://img.shields.io/badge/-C#-090909?style=for-the-badge&logo=C#)](https://wikipedia.org/wiki/C#)
 
 ### 📈 Statistics:
 
