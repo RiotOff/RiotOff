@@ -1,5 +1,3 @@
-[![Header](https://cdn.discordapp.com/attachments/1138212766897942662/1224737812730085386/riotoff_discord_banner.gif?ex=66287839&is=662726b9&hm=f808caf030a51807cf8ecce3f079ae17159edc6cf6e7cac0078869e67b2fe80f&)](https://riotoff.lol)
-
 # Hi, i'm [RiotOff](https://t.me/riotoff)!
 
 [![](https://komarev.com/ghpvc/?username=RIOTOFF&logo=github&style=for-the-badge&color=000000)](https://github.com/RiotOff)
@@ -16,8 +14,7 @@
 
 [![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)](https://en.wikipedia.org/wiki/Python_(programming_language))
 [![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C++)](https://wikipedia.org/wiki/C++)
-[![C++](https://img.shields.io/badge/-C#-090909?style=for-the-badge&logo=C#)](https://wikipedia.org/wiki/C#)
-
+[![C#](https://img.shields.io/badge/-CSharp-090909?style=for-the-badge&logo=CSharp)](https://wikipedia.org/wiki/CSharp)
 ### 📈 Statistics:
 
 [![RiotOff Github Stats](https://github-readme-stats.vercel.app/api?username=RiotOff&count_private=true&hide=contribs&show_icons=true&theme=radical)](https://github.com/RiotOff)
