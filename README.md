@@ -6,14 +6,13 @@
  Shell: bash
  WM: dwm/x11
  CPU: AMD Ryzen 5 5500
- GPU: GTX 1660 Super (gaming addicted boy)
+ GPU: GTX 1660 Super
  RAM: 16 (14.58) GiB
  Locale: ru_RU
  Langs: C, Netwide Assembly
 ```
 ```
-me as a dev:
-embedded soft dev
-backend dev
-systems soft dev
+embedded and systems software developer, fullstack developer
+graphic designer, motion designer, illustrator
+specialist in social engineering, osint, geoint
 ```
