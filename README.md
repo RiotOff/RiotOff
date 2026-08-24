@@ -1,7 +1,7 @@
 ```
- bob@raw
+ bob@gentoo
  ----------
- OS: Raw/Linux x86_64
+ OS: Gentoo/Linux x86_64
  Host: A320M-S2H
  Shell: bash
  WM: dwm/x11
@@ -14,5 +14,5 @@
 ```
 embedded and systems software developer, fullstack developer
 graphic designer, motion designer, illustrator
-specialist in social engineering, osint, geoint
+specialist in social engineering
 ```
